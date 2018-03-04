@@ -1,0 +1,12 @@
+Package: nothing
+Type: Package
+Title: Minimal
+Version: 0.1.0
+Authors@R: person("Ellis", "Valentiner", email = "ellisvalentiner@gmail.com",
+                  role = c("aut", "cre"))
+Maintainer@R: person("Ellis", "Valentiner", email = "ellisvalentiner@gmail.com")
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
